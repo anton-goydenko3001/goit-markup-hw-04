@@ -251,13 +251,6 @@ button:focus {
     margin-bottom: 8px;
 }
 
-.features-icon {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 .features-header {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
